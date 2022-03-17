@@ -1,0 +1,28 @@
+{
+  "name": "homework04-ericsson-c",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-csci-ua-0467-001-002-spring-2022/homework04-ericsson-c.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0467-001-002-spring-2022/homework04-ericsson-c/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0467-001-002-spring-2022/homework04-ericsson-c#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "eslint-plugin-mocha": "^10.0.3"
+  }
+}

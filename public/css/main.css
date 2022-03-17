@@ -1,0 +1,166 @@
+.logo {
+    position: relative;
+    height: 10vh;
+    width: 10vh;
+}
+.header {
+    position: relative;
+    left: 5px;
+    top: 5px;
+    font-family: 'Trebuchet MS';
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.nav ul{
+    list-style: none;
+    text-align: center;
+    position: relative;
+    margin-left: 80vh;
+}
+.nav li {
+    font-family: 'Trebuchet MS';
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 40px;
+    width: 10vw;
+    display: inline-block;
+    background-color: aliceblue;
+    
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+    border-left: 3px solid black;
+}
+
+body {
+    background-color: bisque;
+    padding-bottom: 20vh;
+    padding-left: 1vh;
+}
+
+body form {
+    margin-left: 5vh;
+    margin-top: 10vh;
+}
+
+input[type=submit] {
+    position: relative;
+    left: -8.5vh;
+    top: 4vh;
+}
+
+textarea {
+    font-size: 1.2em;
+    font-family: 'Trebuchet MS';
+    padding: 10px 10px;
+    vertical-align: center;
+    margin-left: 0px;
+    margin-right: 00px;
+    
+}
+
+#output {
+    position: relative;
+    top: -49vh;
+    left: -0vh;
+    margin-left: 40vh;
+    margin-top: auto;
+    background-color: lightgray;
+    
+}
+
+#input {
+    background-color: blanchedalmond;
+    position: relative;
+    left: -40vh;
+}
+
+#convertButton {
+    position: relative;
+}
+
+#editor {
+    margin: auto;
+    width: 50%; 
+}
+#convertButton {
+    width: 100px;
+    position: relative;
+    top: -45vh;
+    left: 10vh
+}
+#addKaoValue {
+    position: relative;
+    left: 0vh;
+    top: 0vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+    
+}
+
+#addKaoEmotions {
+    position: relative;
+    left: 0vh;
+    top: 0vh;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+button {
+
+    height: 42px;
+    width: 62px;
+    font-size: 1.1em;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    background-color: white;
+}
+
+#addKaoButton {
+    position: relative;
+
+}
+
+#addNewH2 {
+ 
+    font-size: 2em;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    position: relative;
+    top: 10vh;
+}
+
+#addNew {
+    margin: auto;
+    width: 50%;
+}
+
+table {
+    width: 100vh;
+    border: 2px solid black;
+    border-spacing: 2rem;
+    background-color: blanchedalmond;
+    position: relative;
+    top: 10vh;
+}
+
+tr {
+    border: 3px solid black;;
+    height: 7vh;
+}
+
+td {
+    text-align: center;
+    font-size: 1.1em;
+    font-family: 'Trebuchet MS';
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }

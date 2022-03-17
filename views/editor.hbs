@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="public/css/main.css">
+</head>
+<body>
+    <div id="editor">
+        <form method="POST" action="/editor">
+            <textarea name="input" cols="50" rows="15" placeholder="Enter text here..." id="input"></textarea>
+            <textarea cols="50" rows="15" placeholder="Kaomoji conversion..." id="output">{{#if enteredInput}}{{output}}{{/if}}</textarea>
+            <button id="convertButton">Convert</button>
+        </form>
+        
+    </div>
+    <a href="https://www.flaticon.com/free-icons/marvel" title="marvel icons">Marvel icons created by Freepik - Flaticon</a>
+</body>
+</html>
